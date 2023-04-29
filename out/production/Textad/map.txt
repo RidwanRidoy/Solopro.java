@@ -1,0 +1,5 @@
+ 	 	 	 	LeaveCaveRoom
+			CyclopsRoom	LootRoom
+ 	 	 	EmptyCavePath	  
+ OgreRoom	TreasureRoom	TreasureRoom	TreasureRoom	FindDaggerRoom
+OgreRoom	TreasureRoom	StartingRoom	TreasureRoom	FindDaggerRoom
